@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="10.201.134.156">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ghkim1996/AppliedScience" local="$PROJECT_DIR$" web="/home/ghkim1996/AppliedScience" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ghkim1996@115.145.173.73">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/AppliedScience" local="$PROJECT_DIR$" web="/AppliedScience" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
