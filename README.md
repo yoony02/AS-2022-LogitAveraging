@@ -1,6 +1,7 @@
-# FairU
+# Logit Averaging
 
-A study of Metric and Framework Improving Fairness-utility Trade-off in Link Prediction
+Logit Averaging is a novel yet simple algorithm (LA), helping to learn both local-level logits which come from intra-sessions’ item transitions and global-level logits, which come from gathered logits of related sessions.
+
 
 ### **Overall Framework of Logit Averaging**
 <img src=./assets/LA_framework.jpg>
